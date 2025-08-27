@@ -4,9 +4,20 @@ This repository contains my first workbook as part of my **Data Technician learn
 It includes tasks and exercises on **data protection laws, Excel functions, pivot tables, and visualisations**.
 
 ## 📂 Contents
-- **Day 1:** Laws & regulations in data handling (DPA, GDPR, FOIA, Computer Misuse Act)  
-- **Day 2:** Excel practice (sorting, SUM, AVERAGE, conditional formatting)  
-- **Day 3:** Pivot tables & SWITCH function with retail sales dataset  
+- **Day 1:** Laws & regulations in data handling (DPA, GDPR, FOIA, Computer Misuse Act)
+
+![](./Images/1.png)
+
+- **Day 2:** Excel practice (sorting, SUM, AVERAGE, conditional formatting)
+
+![](./Images/2.png)
+ 
+- **Day 3:** Pivot tables & SWITCH function with retail sales dataset
+- 
+![](./Images/3.png)
+
+![](./Images/4.png)
+  
 - **Day 4:** Presentation skills, public speaking preparation & data visualisation  
 
 ## 🛠 Skills Practiced
