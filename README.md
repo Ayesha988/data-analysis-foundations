@@ -22,6 +22,6 @@ It includes tasks and exercises on **data protection laws, Excel functions, pivo
 
 ---
 
-👩‍💻 *Author:* **Alaa Mostafa**  
-📅 *Course Date:* 16/12/24  
+👩‍💻 *Author:* **Ayesha Naveed**  
+📅 *Course Date:*08/2025*  
 # data-analysis-foundations
